@@ -63,7 +63,7 @@ MODULES = {
     "Centro de Datos": "Fuentes, integridad y próximas conexiones",
 }
 
-st.set_page_config(page_title="Radar GIS V1.1", layout="wide")
+st.set_page_config(page_title="Radar GIS V1.2", layout="wide")
 st.title("Radar GIS — Inteligencia Territorial V1.2")
 st.caption("Plataforma independiente · Perú y Brasil · Fuentes originales protegidas")
 
